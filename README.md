@@ -1,8 +1,7 @@
 # Tabela-verdade_Nickolahs
-Desenvolvimento tabela verdade cpp
+Desenvolvimento tabela verdade em cpp
 
-Classe para criação de tabela verdade com 2 proposições simples
-Elementos de conjunção (^), disjunção(v), implicação(->) e biciondicional(<->)
+Classe para criação de tabela verdade com 2 proposições simples elementos de conjunção (^), disjunção(v), implicação(->) e biciondicional(<->)
 
 # Tabela passada sem parâmetros de entrada, receberá var1 e var2 como padrão, não irá exibir valores verdade, apenas a estrutura da tabela
 
